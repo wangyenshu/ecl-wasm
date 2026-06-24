@@ -33,3 +33,4 @@
 # Credit
 - https://github.com/oldk1331/fricas0
 - https://gitlab.com/embeddable-common-lisp/ecl
+- I would like to thank [Qian Yun](https://github.com/oldk1331) for his useful discussion.
